@@ -17,6 +17,7 @@ Currently :
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/cordeiro-nicolas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/cordeiro-nicolas/" height="30" width="40" /></a>
+<a href="https://nicolas-cordeiro.webflow.io/" target="blank"><img align="center" src="https://cdn.discordapp.com/attachments/1065431686973751357/1065610509627437087/qr_code.png" alt="https://nicolas-cordeiro.webflow.io/" height="30" width="40" /></a>
 </p>
 <br>
 
